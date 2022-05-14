@@ -1,0 +1,11 @@
+2>1=true
+2<1=false
+"i" in "hi"=true
+3>1=true
+4>1=true
+5>1=true
+6>1=true
+4>5=flase
+4>6=flase
+4>7=false
+4>8=false
